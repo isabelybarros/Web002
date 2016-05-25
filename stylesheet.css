@@ -1,3 +1,19 @@
 body{
 background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF73MNhEysH9x86gdgLc0uv_i5_FVI87JuuYFndLASxUHgcz7o/background.jpg);
 }
+p{
+  text-align: center;
+  font-size: 50px;
+  font-family: Helvetica;
+  Color: #cc0066;
+  text-decoration: none;
+}
+a{
+  border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
