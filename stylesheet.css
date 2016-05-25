@@ -10,12 +10,6 @@ p{
   Color: #cc0066;
   
 }
-a{
-        Color: #ff0066;
-        font-size: 22px;
-	text-decoration: none;
-	text-align: center;
-}
 div nth-child(2){
 	border-radius: 5px;
 	border: 4px solid black;
@@ -23,5 +17,11 @@ div nth-child(2){
 	height: 100px;
 	width: 180px;
 	margin: auto;
+	text-align: center;
+}
+a{
+        Color: #ff0066;
+        font-size: 22px;
+	text-decoration: none;
 	text-align: center;
 }
