@@ -11,12 +11,14 @@ p{
   
 }
 a{
-  border-radius: 5px;
+	text-decoration: none;
+}
+div nth-child(2){
+     border-radius: 5px;
 	border: 2px solid #6495ED;
 	background-color: #BCD2EE;
 	height: 50px;
 	width: 120px;
 	margin: auto;
 	text-align: center;
-	text-decoration: none;
 }
