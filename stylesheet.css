@@ -1,14 +1,6 @@
-body{
-	margin: 0auto;
-	text-align: center;
-	width: 100%;
-}
-p{
-  text-align: center;
-  font-size: 50px;
-  font-family: Helvetica;
-  Color: #0B486B;
-  
+img{
+  height: 750px;
+  width: 1295px;
 }
 div{
 	border-radius: 5px;
