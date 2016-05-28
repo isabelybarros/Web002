@@ -12,12 +12,13 @@ div{
 	background-color: white;
 	height: 30px;
 	width: 180px;
-	margin: auto;
-	text-align: center;
+	margin-top: 35%;
+	text-align: right;
+	
 }
 a{
         Color: #ff0066;
         font-size: 22px;
 	text-decoration: none;
-	text-align: center;
+	text-align: right;
 }
